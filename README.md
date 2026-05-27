@@ -1,38 +1,39 @@
-<div align="center">
-  <img width="80" height="80px" src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajl2aTJ5NHl3Yms4YjZuaTFkdGpsMTk4ZXdtbXh1dTVwOXM0anlyMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Hnkg7teSAliECgiAIX/giphy.webp" />
-</div>
+---
 
 <br>
 
 <p align="center" width="100%" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mansalva&size=34&pause=1000&color=F4F4C6&center=true&width=435&lines=Let%C3%ADcia+Magalh%C3%A3es;Sobre+Mim+%7C+About+Me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=F4F4C6&center=true&width=435&lines=Let%C3%ADcia+Magalh%C3%A3es;Sobre+mim+%7C+About+me" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leticiavmagalhaes&icon=6&color=a09d82" width="140" />
-  <h1></h1>
-</p>
+<img align="right" width="400px" height="400px" src="https://cdnx.jumpseller.com/tokyoxwaves/image/70673559/resize/1200/630?1765770027" />
+
+Olá Mundo! Me chamo Letícia, desenvolvedora Full-Stack Jr formada em Análise e Desenvolvimento de Sistemas. Gosto de entender como as coisas funcionam, resolver problemas e transformar ideias em projetos práticos. 
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=speech&height=60&color=F4F4C6&text=Full-Stack%20Developer&fontColor=444444&fontSize=26&fontAlign=50&fontAlignY=45&animation=twinkling" />
+Fique à vontade para explorar meus projetos! E caso quiser trocar uma ideia sobre tecnologia, projetos e stacks, vamos nos conectar no LinkedIn! "[Letícia Magalhães](https://www.linkedin.com/in/leticiavmagalhaes/)".
 
-Olá Mundo! Me chamo Letícia, desenvolvedora Full-Stack Jr formada em Análise e Desenvolvimento de Sistemas. Estou sempre em busca de novos desafios para aplicar meus conhecimentos e evoluir minhas habilidades. Fique à vontade para explorar meus projetos! :D
+<br>
 
-<p align="center">
-  <h1 align="center">Minha jornada e objetivos</h1>
-</p>
+---
 
-* Atualmente focada em aprender e me aprofundar em **Node.js**.
-* Missão atual: virar uma Full-Stack que entende do pipeline todo, do botão ao servidor, e do servidor ao banco.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Minha%20jornada%20atual&animation=twinkling&fontColor=F4F4C6&fontSize=26" />
+
+- Atualmente estudando e me aprofundando em **Node.js** e **React**
+- Desenvolvendo projetos práticos focados em APIs, bancos de dados e interfaces web
+- Aprendendo cada vez mais sobre arquitetura Full-Stack e boas práticas de desenvolvimento
+- Explorando conceitos de UI/UX para criar aplicações mais intuitivas e funcionais
+
+<br>
+
+---
   
 <br>
 
-Estou sempre aberta a feedbacks, colaborações e novas ideias. Se quiser trocar uma ideia sobre tecnologia, vamos nos conectar no LinkedIn! "[Letícia Magalhães](https://www.linkedin.com/in/leticiavmagalhaes/)".
 
-<p align="center">
-  <h1 align="center">Stacks</h1>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Stacks&animation=twinkling&fontColor=F4F4C6&fontSize=26" />
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-f4f4c6?style=for-the-badge&logo=html5&logoColor=717165"/>
@@ -46,9 +47,11 @@ Estou sempre aberta a feedbacks, colaborações e novas ideias. Se quiser trocar
   </a>
 </p>
 
-<p align="center">
-  <h1 align="center">Status</h1>
-</p>
+<br>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Status&animation=twinkling&fontColor=F4F4C6&fontSize=26" />
 
 <table align="center">
   <tr>
